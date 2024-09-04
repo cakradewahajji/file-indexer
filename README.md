@@ -1,1 +1,3 @@
-# file-indexer
+# File-Indexer
+
+## Installation Guide
